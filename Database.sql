@@ -6,10 +6,6 @@
 -- Generation Time: Dec 9, 2019 at 1:58 AM
 -- Server version: 10.1.26-MariaDB
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
-SET time_zone = "+00:00";
 
 CREATE TABLE `UMS`.building(
 	name varchar(100) NOT NULL,
